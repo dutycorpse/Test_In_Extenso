@@ -6,9 +6,9 @@
 
 `composer install`
 
-`php bin/console doctrine:database:create`
+`symfony console doctrine:database:create`
 
-`php bin/console doctrine:migration:migrate`
+`symfony console doctrine:migration:migrate`
 
 ## run console commands
 
